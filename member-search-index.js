@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"MyMaps","l":"getDirections()"},{"p":"<Unnamed>","c":"MyMaps","l":"MyMaps(String)","u":"%3Cinit%3E(java.lang.String)"},{"p":"<Unnamed>","c":"MyMaps","l":"returnTrip()"},{"p":"<Unnamed>","c":"MyMaps","l":"returnTripTime()"},{"p":"<Unnamed>","c":"MyMaps","l":"travelTime()"}];updateSearchResults();
